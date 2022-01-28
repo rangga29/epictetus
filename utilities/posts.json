@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "/thumbnail-2.png",
+    "category": "Internet",
+    "date": "June 28, 2021",
+    "title": "How to design a product that can grow itself 10x in year",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum.",
+    "authorAvatar": "/author-2.png",
+    "authorName": "Jenny Wilson",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": 2,
+    "thumbnail": "/thumbnail-3.png",
+    "category": "9 To 5",
+    "date": "June 28, 2021",
+    "title": "How to design a product that can grow itself 10x in year",
+    "shortDescription": "The More Important the Work, the More Important the Rest",
+    "authorAvatar": "/author-3.png",
+    "authorName": "Jenny Wilson",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": 3,
+    "thumbnail": "/thumbnail-4.png",
+    "category": "Inspiration",
+    "date": "June 28, 2021",
+    "title": "Email Love - Email Inspiration, Templates and Discovery",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum.",
+    "authorAvatar": "/author-4.png",
+    "authorName": "Jenny Wilson",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": 4,
+    "thumbnail": "/thumbnail-5.png",
+    "category": "Internet",
+    "date": "June 28, 2021",
+    "title": "How to design a product that can grow itself 10x in year",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum.",
+    "authorAvatar": "/author-2.png",
+    "authorName": "Jenny Wilson",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": 5,
+    "thumbnail": "/thumbnail-6.png",
+    "category": "9 To 5",
+    "date": "June 28, 2021",
+    "title": "How to design a product that can grow itself 10x in year",
+    "shortDescription": "The More Important the Work, the More Important the Rest",
+    "authorAvatar": "/author-3.png",
+    "authorName": "Jenny Wilson",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": 6,
+    "thumbnail": "/thumbnail-7.png",
+    "category": "Inspiration",
+    "date": "June 28, 2021",
+    "title": "Email Love - Email Inspiration, Templates and Discovery",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum.",
+    "authorAvatar": "/author-4.png",
+    "authorName": "Jenny Wilson",
+    "authorJob": "Product Designer"
+  }
+]
